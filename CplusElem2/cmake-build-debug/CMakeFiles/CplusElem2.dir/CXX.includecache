@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ARCHIEVE/C_WORKPLACE/CplusElem2/STACK.cpp
+STACK.h
+D:/ARCHIEVE/C_WORKPLACE/CplusElem2/STACK.h
+iostream
+-
+
+D:/ARCHIEVE/C_WORKPLACE/CplusElem2/STACK.h
+
+D:/ARCHIEVE/C_WORKPLACE/CplusElem2/main.cpp
+iostream
+-
+cstring
+-
+STACK.h
+D:/ARCHIEVE/C_WORKPLACE/CplusElem2/STACK.h
+
